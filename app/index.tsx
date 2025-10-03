@@ -195,7 +195,7 @@ export default function App() {
       <SafeAreaView style={styles.container}>
         <View style={styles.gradientBg}>
           <View style={styles.authCard}>
-            <Text style={styles.logo}>🔐 Web3 Auth</Text>
+            <Text style={styles.logo}>Auth</Text>
 
             <View style={styles.tabContainer}>
               <TouchableOpacity
